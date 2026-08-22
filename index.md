@@ -54,4 +54,4 @@ These terms are governed by the laws of India, and the courts of Mumbai, Maharas
 
 ## 10. Contact
 
-email : saurabhupadhyay7973@gmail.com
+Email: saurabhupadhyay7973@gmail.com
