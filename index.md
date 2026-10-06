@@ -46,6 +46,11 @@ Firebase also receives general device information (such as device model, Android
 - **App lock and Book Mode:** a fingerprint/face or PIN lock, and a discreet mode that makes the app look like a reading app. Biometric checks are handled by Android; no biometric data reaches us.
 - Under India's Digital Personal Data Protection Act, 2023, you can ask about the personal data we process, ask for it to be corrected or erased, and raise a grievance. Because Sahaj has no accounts, the usage data that reaches Firebase isn't linked to your name or contact details. For any request or complaint, email us at the address below.
 
+## Deleting your data
+- **Everything on your phone:** open Settings → *Erase everything*. All Sahaj data on the device is deleted immediately and permanently. Uninstalling the app also removes it.
+- **Usage counts and crash reports:** turn off Settings → *Share anonymous usage* to stop usage events. These records aren't linked to your name or contact details, so we can't look them up by who you are. They are deleted automatically under Google's retention settings (crash reports after about 90 days). If you'd like us to try anyway, email us with the subject "Delete my Sahaj data".
+- **Purchase records** are kept by Google Play and RevenueCat for as long as needed to provide and restore your unlock, handle refunds, and meet legal and tax requirements.
+
 ## Children
 Sahaj is for adults (18+). It is not directed at children, and we do not knowingly collect data from anyone under 18.
 
